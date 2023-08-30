@@ -55,8 +55,8 @@ class _AddPlaceScreenState extends ConsumerState<AddPlaceScreen> {
                 )),
             const SizedBox(height: 10),
             ImageInput(
-              onPickImage: (Image) {
-                _selectedImage = Image;
+              onPickImage: (image) {
+                _selectedImage = image;
               },
             ),
             const SizedBox(height: 10),
