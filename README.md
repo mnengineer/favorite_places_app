@@ -12,7 +12,7 @@ Section13 : [Flutter & Dart - The Complete Guide：2023 Edition](https://www.ude
 ## Demo
 <img src="FavoritePlaces.gif" width="270" />
 
-### ※ Note on API Key
+### ※ Note on API Key ※
 The Google Maps API Key included in this repository has been revoked and is no longer valid.
 
 If you want to run the code, please use your own API Key.
